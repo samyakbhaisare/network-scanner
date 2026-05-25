@@ -78,7 +78,7 @@ python3 network_scanner.py
 ```text
 IP                MAC                 Hostname
 ------------------------------------------------------------
-10.53.171.252     60:ff:9e:50:71:3e  SAMYAK
+10.53.171.252     xx:xx:xx:xx:xx:xx  Unknown
 10.53.171.120     xx:xx:xx:xx:xx:xx  Unknown
 ```
 
