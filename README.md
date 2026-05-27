@@ -34,13 +34,13 @@ A multithreaded Network Scanner developed using Python and Scapy for detecting a
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/network-scanner-python.git
+git clone https://github.com/samyakbhaisare/network-scanner.git
 ```
 
 ## Move into Project Folder
 
 ```bash
-cd network-scanner-python
+cd network-scanner
 ```
 
 ## Install Requirements
