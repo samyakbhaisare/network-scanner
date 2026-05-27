@@ -53,11 +53,12 @@ pip install scapy
 
 # Run the Project
 
+On Windows:
 ```bash
 py network_scanner.py
 ```
 
-or on Kali Linux:
+Or On Kali Linux / Linux:
 
 ```bash
 sudo python3 network_scanner.py
