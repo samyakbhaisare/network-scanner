@@ -60,7 +60,7 @@ py network_scanner.py
 or on Kali Linux:
 
 ```bash
-python3 network_scanner.py
+sudo python3 network_scanner.py
 ```
 
 ---
