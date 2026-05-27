@@ -76,10 +76,11 @@ sudo python3 network_scanner.py
 # Example Output
 
 ```text
-IP                MAC                 Hostname
+IP                 MAC                  Hostname
 ------------------------------------------------------------
-10.53.171.252     xx:xx:xx:xx:xx:xx  Unknown
-10.53.171.120     xx:xx:xx:xx:xx:xx  Unknown
+192.168.174.1      00:50:56:c0:00:08    Unknown
+192.168.174.2      00:50:56:f6:5e:7c    Unknown
+192.168.174.254    00:50:56:e4:28:4d    Unknown
 ```
 
 ---
